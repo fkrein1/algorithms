@@ -1,6 +1,7 @@
 # Algorithms and Data Structures
 
 [MicroMasters from UC San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
+[Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 1. Algorithmic Design and Techniques
 2. Data Structures Fundamentals
