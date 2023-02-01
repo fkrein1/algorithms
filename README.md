@@ -10,3 +10,4 @@
 6. Dynamic Programming: Applications In Machine Learning and Genomics
 7. Graph Algorithms in Genome Sequencing
 8. Algorithms and Data Structures Capstone
+9. Extra: Elements of Programming Interviews
